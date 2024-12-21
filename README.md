@@ -1,2 +1,2 @@
 # CompilerHomework
-A naive version of lex and yacc
+using configuration file to generate a parser.
